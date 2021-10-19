@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // "experimentalDecorators": true,
+    // "jsxImportSource": "react",
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "react"
+  }
+}
