@@ -1,3 +1,8 @@
-# React + Tailwind + Typescript + Parcel Boilerplate
+# (React + Tailwind + Typescript + Parcel) Boilerplate
 
-Run `yarn install && yarn start` and enjoy 😁
+Boilerplate for blazing-fast ⚡ builds with **Parcel** and 
+rapid prototyping with **Tailwind CSS**.
+
+## Usage:
+
+Clone or fork, run `yarn install && yarn start` and enjoy 😜.
