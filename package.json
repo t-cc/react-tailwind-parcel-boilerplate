@@ -9,7 +9,10 @@
     "tailwindcss": "^2.2.17"
   },
   "devDependencies": {
-    "@parcel/transformer-svg-react": "^2.0.0",
+    "@parcel/packager-raw-url": "^2.0.0",
+    "@parcel/transformer-inline-string": "^2.0.0",
+    "@parcel/transformer-webmanifest": "^2.0.0",
+    "@svgr/parcel-plugin-svgr": "^5.5.0",
     "@types/node": "^16.11.4",
     "@types/react": "^17.0.30",
     "@types/react-dom": "^17.0.9",
