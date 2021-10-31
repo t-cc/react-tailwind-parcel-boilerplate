@@ -2,6 +2,7 @@
 !.gitignore
 !.parcelrc
 !.postcssrc
+!.editorconfig
 
 package-lock.json
 yarn.lock
